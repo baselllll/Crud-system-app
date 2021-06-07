@@ -1,0 +1,13 @@
+{
+    "name": "UserData",
+    "alias": "userdata",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\UserData\\Providers\\UserDataServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
